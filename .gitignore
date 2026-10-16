@@ -1,6 +1,8 @@
 node_modules
 dist
-.claude
+.claude/*
+!.claude/skills
+!.claude/agents
 .DS_Store
 vendor/seccomp/x64/
 vendor/seccomp/arm64/
